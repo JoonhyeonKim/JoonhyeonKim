@@ -7,8 +7,8 @@ My name is JoonhyeonKim.
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning ... data science, quantum computing
-- 👯 I’m looking to collaborate on ... ds project
+- 🌱 I’m currently learning ... data science, web development
+- 👯 I’m looking to collaborate on ... ds project, kaggle competition
 - 🤔 I’m looking for help with ... anyone who is good at coding or math
 - 📫 How to reach me: ... joonhyeonkim1015@gmail.com
 
